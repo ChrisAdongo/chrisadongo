@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/chrisadongo" target="blank"><img src="https://img.shields.io/twitter/follow/chrisadongo?logo=twitter&style=for-the-badge" alt="chrisadongo" /></a> </p>-->
 
-- 🔭 I’m currently working on **ALX printf function**
+- 🔭 I’m currently working on **ALX simple shell program**
 
 - 🌱 I’m currently learning **Python Programming**
 
