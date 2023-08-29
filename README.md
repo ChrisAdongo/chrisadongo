@@ -11,9 +11,9 @@
 
 - 🔭 I’m currently working on **ALX printf function**
 
-- 🌱 I’m currently learning **C Programming**
+- 🌱 I’m currently learning **Python Programming**
 
-- 👯 I’m looking to collaborate on **ALX printf function**
+- 👯 I’m looking to collaborate on **Any impactful projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ChrisAdongo](https://github.com/ChrisAdongo)
 
